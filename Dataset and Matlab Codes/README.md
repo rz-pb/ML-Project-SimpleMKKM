@@ -1,4 +1,4 @@
-# SimpleMKKMcodes
+# Simple-MKKM codes
 
 Matlab code for paper: SimpleMKKM: Simple Multiple Kernel K-means
 
